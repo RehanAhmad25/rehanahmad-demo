@@ -1,4 +1,4 @@
 # rehanahmad-demo
 This is my first Git Repository.
 <br>
-Author - Rehan Ahmad
+Author - Rehan (BIT Sindri)
